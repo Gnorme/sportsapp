@@ -1,0 +1,354 @@
+[   
+    {
+      "person" : {
+        "id" : 8469466,
+        "fullName" : "Ales Hemsky",
+        "link" : "/api/v1/people/8469466"
+      },
+      "jerseyNumber" : "83",
+      "position" : {
+        "code" : "R",
+        "name" : "Right Wing",
+        "type" : "Forward",
+        "abbreviation" : "RW"
+      }
+    }, {
+      "person" : {
+        "id" : 8470642,
+        "fullName" : "Shea Weber",
+        "link" : "/api/v1/people/8470642"
+      },
+      "jerseyNumber" : "6",
+      "position" : {
+        "code" : "D",
+        "name" : "Defenseman",
+        "type" : "Defenseman",
+        "abbreviation" : "D"
+      }
+    }, {
+      "person" : {
+        "id" : 8471219,
+        "fullName" : "Al Montoya",
+        "link" : "/api/v1/people/8471219"
+      },
+      "jerseyNumber" : "35",
+      "position" : {
+        "code" : "G",
+        "name" : "Goalie",
+        "type" : "Goalie",
+        "abbreviation" : "G"
+      }
+    }, {
+      "person" : {
+        "id" : 8479376,
+        "fullName" : "Victor Mete",
+        "link" : "/api/v1/people/8479376"
+      },
+      "jerseyNumber" : "53",
+      "position" : {
+        "code" : "D",
+        "name" : "Defenseman",
+        "type" : "Defenseman",
+        "abbreviation" : "D"
+      }
+    }, {
+      "person" : {
+        "id" : 8469521,
+        "fullName" : "Tomas Plekanec",
+        "link" : "/api/v1/people/8469521"
+      },
+      "jerseyNumber" : "14",
+      "position" : {
+        "code" : "C",
+        "name" : "Center",
+        "type" : "Forward",
+        "abbreviation" : "C"
+      }
+    }, {
+      "person" : {
+        "id" : 8471679,
+        "fullName" : "Carey Price",
+        "link" : "/api/v1/people/8471679"
+      },
+      "jerseyNumber" : "31",
+      "position" : {
+        "code" : "G",
+        "name" : "Goalie",
+        "type" : "Goalie",
+        "abbreviation" : "G"
+      }
+    }, {
+      "person" : {
+        "id" : 8473507,
+        "fullName" : "Jeff Petry",
+        "link" : "/api/v1/people/8473507"
+      },
+      "jerseyNumber" : "26",
+      "position" : {
+        "code" : "D",
+        "name" : "Defenseman",
+        "type" : "Defenseman",
+        "abbreviation" : "D"
+      }
+    }, {
+      "person" : {
+        "id" : 8473673,
+        "fullName" : "David Schlemko",
+        "link" : "/api/v1/people/8473673"
+      },
+      "jerseyNumber" : "21",
+      "position" : {
+        "code" : "D",
+        "name" : "Defenseman",
+        "type" : "Defenseman",
+        "abbreviation" : "D"
+      }
+    }, {
+      "person" : {
+        "id" : 8473991,
+        "fullName" : "Karl Alzner",
+        "link" : "/api/v1/people/8473991"
+      },
+      "jerseyNumber" : "22",
+      "position" : {
+        "code" : "D",
+        "name" : "Defenseman",
+        "type" : "Defenseman",
+        "abbreviation" : "D"
+      }
+    }, {
+      "person" : {
+        "id" : 8474038,
+        "fullName" : "Paul Byron",
+        "link" : "/api/v1/people/8474038"
+      },
+      "jerseyNumber" : "41",
+      "position" : {
+        "code" : "L",
+        "name" : "Left Wing",
+        "type" : "Forward",
+        "abbreviation" : "LW"
+      }
+    }, {
+      "person" : {
+        "id" : 8474157,
+        "fullName" : "Max Pacioretty",
+        "link" : "/api/v1/people/8474157"
+      },
+      "jerseyNumber" : "67",
+      "position" : {
+        "code" : "L",
+        "name" : "Left Wing",
+        "type" : "Forward",
+        "abbreviation" : "LW"
+      }
+    }, {
+      "person" : {
+        "id" : 8474550,
+        "fullName" : "Antti Niemi",
+        "link" : "/api/v1/people/8474550"
+      },
+      "jerseyNumber" : "37",
+      "position" : {
+        "code" : "G",
+        "name" : "Goalie",
+        "type" : "Goalie",
+        "abbreviation" : "G"
+      }
+    }, {
+      "person" : {
+        "id" : 8474818,
+        "fullName" : "Jordie Benn",
+        "link" : "/api/v1/people/8474818"
+      },
+      "jerseyNumber" : "8",
+      "position" : {
+        "code" : "D",
+        "name" : "Defenseman",
+        "type" : "Defenseman",
+        "abbreviation" : "D"
+      }
+    }, {
+      "person" : {
+        "id" : 8475235,
+        "fullName" : "Nicolas Deslauriers",
+        "link" : "/api/v1/people/8475235"
+      },
+      "jerseyNumber" : "20",
+      "position" : {
+        "code" : "L",
+        "name" : "Left Wing",
+        "type" : "Forward",
+        "abbreviation" : "LW"
+      }
+    }, {
+      "person" : {
+        "id" : 8475278,
+        "fullName" : "Byron Froese",
+        "link" : "/api/v1/people/8475278"
+      },
+      "jerseyNumber" : "42",
+      "position" : {
+        "code" : "C",
+        "name" : "Center",
+        "type" : "Forward",
+        "abbreviation" : "C"
+      }
+    }, {
+      "person" : {
+        "id" : 8475848,
+        "fullName" : "Brendan Gallagher",
+        "link" : "/api/v1/people/8475848"
+      },
+      "jerseyNumber" : "11",
+      "position" : {
+        "code" : "R",
+        "name" : "Right Wing",
+        "type" : "Forward",
+        "abbreviation" : "RW"
+      }
+    }, {
+      "person" : {
+        "id" : 8476381,
+        "fullName" : "Andrew Shaw",
+        "link" : "/api/v1/people/8476381"
+      },
+      "jerseyNumber" : "65",
+      "position" : {
+        "code" : "R",
+        "name" : "Right Wing",
+        "type" : "Forward",
+        "abbreviation" : "RW"
+      }
+    }, {
+      "person" : {
+        "id" : 8476476,
+        "fullName" : "Joe Morrow",
+        "link" : "/api/v1/people/8476476"
+      },
+      "jerseyNumber" : "45",
+      "position" : {
+        "code" : "D",
+        "name" : "Defenseman",
+        "type" : "Defenseman",
+        "abbreviation" : "D"
+      }
+    }, {
+      "person" : {
+        "id" : 8476479,
+        "fullName" : "Phillip Danault",
+        "link" : "/api/v1/people/8476479"
+      },
+      "jerseyNumber" : "24",
+      "position" : {
+        "code" : "C",
+        "name" : "Center",
+        "type" : "Forward",
+        "abbreviation" : "C"
+      }
+    }, {
+      "person" : {
+        "id" : 8476851,
+        "fullName" : "Alex Galchenyuk",
+        "link" : "/api/v1/people/8476851"
+      },
+      "jerseyNumber" : "27",
+      "position" : {
+        "code" : "L",
+        "name" : "Left Wing",
+        "type" : "Forward",
+        "abbreviation" : "LW"
+      }
+    }, {
+      "person" : {
+        "id" : 8476948,
+        "fullName" : "Charles Hudon",
+        "link" : "/api/v1/people/8476948"
+      },
+      "jerseyNumber" : "54",
+      "position" : {
+        "code" : "L",
+        "name" : "Left Wing",
+        "type" : "Forward",
+        "abbreviation" : "LW"
+      }
+    }, {
+      "person" : {
+        "id" : 8477455,
+        "fullName" : "Jacob de la Rose",
+        "link" : "/api/v1/people/8477455"
+      },
+      "jerseyNumber" : "25",
+      "position" : {
+        "code" : "L",
+        "name" : "Left Wing",
+        "type" : "Forward",
+        "abbreviation" : "LW"
+      }
+    }, {
+      "person" : {
+        "id" : 8477476,
+        "fullName" : "Artturi Lehkonen",
+        "link" : "/api/v1/people/8477476"
+      },
+      "jerseyNumber" : "62",
+      "position" : {
+        "code" : "L",
+        "name" : "Left Wing",
+        "type" : "Forward",
+        "abbreviation" : "LW"
+      }
+    }, {
+      "person" : {
+        "id" : 8477494,
+        "fullName" : "Jonathan Drouin",
+        "link" : "/api/v1/people/8477494"
+      },
+      "jerseyNumber" : "92",
+      "position" : {
+        "code" : "C",
+        "name" : "Center",
+        "type" : "Forward",
+        "abbreviation" : "C"
+      }
+    }, {
+      "person" : {
+        "id" : 8477901,
+        "fullName" : "Daniel Carr",
+        "link" : "/api/v1/people/8477901"
+      },
+      "jerseyNumber" : "43",
+      "position" : {
+        "code" : "L",
+        "name" : "Left Wing",
+        "type" : "Forward",
+        "abbreviation" : "LW"
+      }
+    }, {
+      "person" : {
+        "id" : 8478004,
+        "fullName" : "Brett Lernout",
+        "link" : "/api/v1/people/8478004"
+      },
+      "jerseyNumber" : "36",
+      "position" : {
+        "code" : "D",
+        "name" : "Defenseman",
+        "type" : "Defenseman",
+        "abbreviation" : "D"
+      }
+    }, {
+      "person" : {
+        "id" : 8480143,
+        "fullName" : "Jakub Jerabek",
+        "link" : "/api/v1/people/8480143"
+      },
+      "jerseyNumber" : "28",
+      "position" : {
+        "code" : "D",
+        "name" : "Defenseman",
+        "type" : "Defenseman",
+        "abbreviation" : "D"
+      }
+    } 
+]

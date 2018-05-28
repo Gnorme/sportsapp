@@ -1,0 +1,315 @@
+[ 
+    {
+      "person" : {
+        "id" : 8474250,
+        "fullName" : "Zack Smith",
+        "link" : "/api/v1/people/8474250"
+      },
+      "jerseyNumber" : "15",
+      "position" : {
+        "code" : "L",
+        "name" : "Left Wing",
+        "type" : "Forward",
+        "abbreviation" : "LW"
+      }
+    }, {
+      "person" : {
+        "id" : 8474697,
+        "fullName" : "Mark Borowiecki",
+        "link" : "/api/v1/people/8474697"
+      },
+      "jerseyNumber" : "74",
+      "position" : {
+        "code" : "D",
+        "name" : "Defenseman",
+        "type" : "Defenseman",
+        "abbreviation" : "D"
+      }
+    }, {
+      "person" : {
+        "id" : 8475227,
+        "fullName" : "Chris Wideman",
+        "link" : "/api/v1/people/8475227"
+      },
+      "jerseyNumber" : "6",
+      "position" : {
+        "code" : "D",
+        "name" : "Defenseman",
+        "type" : "Defenseman",
+        "abbreviation" : "D"
+      }
+    }, {
+      "person" : {
+        "id" : 8467950,
+        "fullName" : "Craig Anderson",
+        "link" : "/api/v1/people/8467950"
+      },
+      "jerseyNumber" : "41",
+      "position" : {
+        "code" : "G",
+        "name" : "Goalie",
+        "type" : "Goalie",
+        "abbreviation" : "G"
+      }
+    }, {
+      "person" : {
+        "id" : 8469665,
+        "fullName" : "Johnny Oduya",
+        "link" : "/api/v1/people/8469665"
+      },
+      "jerseyNumber" : "29",
+      "position" : {
+        "code" : "D",
+        "name" : "Defenseman",
+        "type" : "Defenseman",
+        "abbreviation" : "D"
+      }
+    }, {
+      "person" : {
+        "id" : 8470358,
+        "fullName" : "Alexandre Burrows",
+        "link" : "/api/v1/people/8470358"
+      },
+      "jerseyNumber" : "14",
+      "position" : {
+        "code" : "R",
+        "name" : "Right Wing",
+        "type" : "Forward",
+        "abbreviation" : "RW"
+      }
+    }, {
+      "person" : {
+        "id" : 8470602,
+        "fullName" : "Dion Phaneuf",
+        "link" : "/api/v1/people/8470602"
+      },
+      "jerseyNumber" : "2",
+      "position" : {
+        "code" : "D",
+        "name" : "Defenseman",
+        "type" : "Defenseman",
+        "abbreviation" : "D"
+      }
+    }, {
+      "person" : {
+        "id" : 8470775,
+        "fullName" : "Nate Thompson",
+        "link" : "/api/v1/people/8470775"
+      },
+      "jerseyNumber" : "17",
+      "position" : {
+        "code" : "C",
+        "name" : "Center",
+        "type" : "Forward",
+        "abbreviation" : "C"
+      }
+    }, {
+      "person" : {
+        "id" : 8471676,
+        "fullName" : "Bobby Ryan",
+        "link" : "/api/v1/people/8471676"
+      },
+      "jerseyNumber" : "9",
+      "position" : {
+        "code" : "R",
+        "name" : "Right Wing",
+        "type" : "Forward",
+        "abbreviation" : "RW"
+      }
+    }, {
+      "person" : {
+        "id" : 8471768,
+        "fullName" : "Tom Pyatt",
+        "link" : "/api/v1/people/8471768"
+      },
+      "jerseyNumber" : "10",
+      "position" : {
+        "code" : "L",
+        "name" : "Left Wing",
+        "type" : "Forward",
+        "abbreviation" : "LW"
+      }
+    }, {
+      "person" : {
+        "id" : 8473544,
+        "fullName" : "Derick Brassard",
+        "link" : "/api/v1/people/8473544"
+      },
+      "jerseyNumber" : "19",
+      "position" : {
+        "code" : "C",
+        "name" : "Center",
+        "type" : "Forward",
+        "abbreviation" : "C"
+      }
+    }, {
+      "person" : {
+        "id" : 8474578,
+        "fullName" : "Erik Karlsson",
+        "link" : "/api/v1/people/8474578"
+      },
+      "jerseyNumber" : "65",
+      "position" : {
+        "code" : "D",
+        "name" : "Defenseman",
+        "type" : "Defenseman",
+        "abbreviation" : "D"
+      }
+    }, {
+      "person" : {
+        "id" : 8474884,
+        "fullName" : "Mike Hoffman",
+        "link" : "/api/v1/people/8474884"
+      },
+      "jerseyNumber" : "68",
+      "position" : {
+        "code" : "L",
+        "name" : "Left Wing",
+        "type" : "Forward",
+        "abbreviation" : "LW"
+      }
+    }, {
+      "person" : {
+        "id" : 8475168,
+        "fullName" : "Matt Duchene",
+        "link" : "/api/v1/people/8475168"
+      },
+      "jerseyNumber" : "95",
+      "position" : {
+        "code" : "C",
+        "name" : "Center",
+        "type" : "Forward",
+        "abbreviation" : "C"
+      }
+    }, {
+      "person" : {
+        "id" : 8475254,
+        "fullName" : "Gabriel Dumont",
+        "link" : "/api/v1/people/8475254"
+      },
+      "jerseyNumber" : "40",
+      "position" : {
+        "code" : "C",
+        "name" : "Center",
+        "type" : "Forward",
+        "abbreviation" : "C"
+      }
+    }, {
+      "person" : {
+        "id" : 8475913,
+        "fullName" : "Mark Stone",
+        "link" : "/api/v1/people/8475913"
+      },
+      "jerseyNumber" : "61",
+      "position" : {
+        "code" : "R",
+        "name" : "Right Wing",
+        "type" : "Forward",
+        "abbreviation" : "RW"
+      }
+    }, {
+      "person" : {
+        "id" : 8476288,
+        "fullName" : "Ryan Dzingel",
+        "link" : "/api/v1/people/8476288"
+      },
+      "jerseyNumber" : "18",
+      "position" : {
+        "code" : "L",
+        "name" : "Left Wing",
+        "type" : "Forward",
+        "abbreviation" : "LW"
+      }
+    }, {
+      "person" : {
+        "id" : 8476368,
+        "fullName" : "Fredrik Claesson",
+        "link" : "/api/v1/people/8476368"
+      },
+      "jerseyNumber" : "33",
+      "position" : {
+        "code" : "D",
+        "name" : "Defenseman",
+        "type" : "Defenseman",
+        "abbreviation" : "D"
+      }
+    }, {
+      "person" : {
+        "id" : 8476419,
+        "fullName" : "Jean-Gabriel Pageau",
+        "link" : "/api/v1/people/8476419"
+      },
+      "jerseyNumber" : "44",
+      "position" : {
+        "code" : "C",
+        "name" : "Center",
+        "type" : "Forward",
+        "abbreviation" : "C"
+      }
+    }, {
+      "person" : {
+        "id" : 8476879,
+        "fullName" : "Cody Ceci",
+        "link" : "/api/v1/people/8476879"
+      },
+      "jerseyNumber" : "5",
+      "position" : {
+        "code" : "D",
+        "name" : "Defenseman",
+        "type" : "Defenseman",
+        "abbreviation" : "D"
+      }
+    }, {
+      "person" : {
+        "id" : 8477237,
+        "fullName" : "Mike Condon",
+        "link" : "/api/v1/people/8477237"
+      },
+      "jerseyNumber" : "1",
+      "position" : {
+        "code" : "G",
+        "name" : "Goalie",
+        "type" : "Goalie",
+        "abbreviation" : "G"
+      }
+    }, {
+      "person" : {
+        "id" : 8477433,
+        "fullName" : "Ben Harpur",
+        "link" : "/api/v1/people/8477433"
+      },
+      "jerseyNumber" : "67",
+      "position" : {
+        "code" : "D",
+        "name" : "Defenseman",
+        "type" : "Defenseman",
+        "abbreviation" : "D"
+      }
+    }, {
+      "person" : {
+        "id" : 8478469,
+        "fullName" : "Thomas Chabot",
+        "link" : "/api/v1/people/8478469"
+      },
+      "jerseyNumber" : "72",
+      "position" : {
+        "code" : "D",
+        "name" : "Defenseman",
+        "type" : "Defenseman",
+        "abbreviation" : "D"
+      }
+    }, {
+      "person" : {
+        "id" : 8478488,
+        "fullName" : "Filip Chlapik",
+        "link" : "/api/v1/people/8478488"
+      },
+      "jerseyNumber" : "78",
+      "position" : {
+        "code" : "C",
+        "name" : "Center",
+        "type" : "Forward",
+        "abbreviation" : "C"
+      }
+    } 
+]
